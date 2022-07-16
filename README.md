@@ -1,0 +1,1 @@
+PotCore is an open source social media content poster that automatically schedules and posts content.
